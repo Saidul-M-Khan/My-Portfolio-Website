@@ -81,15 +81,16 @@ p{
     text-align: justify;
     border-left: linear-gradient();
 }
-
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
-
 #noob-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
